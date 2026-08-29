@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Teja-0918/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Teja-0918/DSA/tree/master/0877-stone-game) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Teja-0918/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Math
 |  |
 | ------- |
