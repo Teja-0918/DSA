@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Teja-0918/DSA/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Teja-0918/DSA/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
